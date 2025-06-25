@@ -7,5 +7,5 @@ $ pip install smtp-py
 ```
 Links
 ------
-- `Documentation <https://reno.gitbook.io/smtp-py>`_
-- `smtp.dev API <https://smtp.dev/docs/api>`_
+- [Documentation](https://reno.gitbook.io/smtp-py)
+- [smtp.dev API](https://smtp.dev/docs/api)
